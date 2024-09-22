@@ -12,11 +12,21 @@ Only support local play.
 
 仅支持本地对战。
 
+
+
+**[Game Download 游戏下载](https://mariocanfly.itch.io/jingges-collection-of-chess-games)**
+
 ![screenshot](./screenshot.jpg)
 
 ![screenshot2](./screenshot2.jpg)
 
 ![screenshot3](./screenshot3.png)
+
+# Details 细节
+
+This project can only be opened using UE5.1, and opening it using UE5.4 will result in an error.
+
+该项目只能使用UE5.1打开，使用UE5.4打开会报错。
 
 The board grid is based on this picture:
 
